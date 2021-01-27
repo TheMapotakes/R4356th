@@ -8,3 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   1) By opening an issue here
   2) Through Snap<i>!</i> Wiki mail
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
